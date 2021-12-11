@@ -37,8 +37,8 @@ body {
 .app {
   position: relative;
   display: flex;
-  background: url(/images/pattern-hills.svg) no-repeat bottom right 20%,
-    url(/images/bg-stars.svg), linear-gradient(to bottom, #191a24, #261e2f);
+  background: url(./images/pattern-hills.svg) no-repeat bottom right 20%,
+    url(./images/bg-stars.svg), linear-gradient(to bottom, #191a24, #261e2f);
   flex-direction: column;
   align-items: center;
   justify-content: start;
