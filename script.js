@@ -30,9 +30,9 @@ const countDown = () => {
 }
 
 /* ============= Render UI ============ */
-// setInterval(() => {
-//     countDown();
-// }, 1000);
+setInterval(() => {
+    countDown();
+}, 1000);
 
 // function animateFlip(element, value) {
 //     element.innerHTML = value;
